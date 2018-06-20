@@ -7,5 +7,8 @@ Lambda@Edge를 이용하여 dist를 구현하는 방법에 대한 HOL을 작성�
 
 이 문서는 누구나 따라하고 사용/재가공을 할 수 있다.
 
+# PowerPoint Slide
+Link: https://1drv.ms/p/s!AkLfiyReGG8VgtUq0NAUX3yiCJoiPg
+
 # 참고 URL
 https://aws.amazon.com/ko/blogs/networking-and-content-delivery/resizing-images-with-amazon-cloudfront-lambdaedge-aws-cdn-blog/
